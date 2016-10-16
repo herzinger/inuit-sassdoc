@@ -1,6 +1,6 @@
 {
-  "name": "sassdoc",
-  "description": "Release the docs!",
+  "name": "inuit-sassdoc",
+  "description": "Release the docs! Fork allowing block comments, for inuitcss",
   "author": {
     "name": "Hugo Giraudel",
     "url": "http://hugogiraudel.com",
@@ -19,13 +19,17 @@
     {
       "name": "Pascal Duez",
       "url": "https://twitter.com/pascalduez"
+    },
+    {
+      "name": "Henrique Erzinger",
+      "url": "http://herzinger.com.br/"
     }
   ],
   "version": "2.1.20",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SassDoc/sassdoc"
+    "url": "https://github.com/herzinger/inuit-sassdoc"
   },
   "homepage": "http://sassdoc.com",
   "keywords": [
@@ -37,7 +41,7 @@
     "theme"
   ],
   "bugs": {
-    "url": "https://github.com/SassDoc/sassdoc/issues"
+    "url": "https://github.com/herzinger/inuit-sassdoc/issues"
   },
   "bin": {
     "sassdoc": "bin/sassdoc"
