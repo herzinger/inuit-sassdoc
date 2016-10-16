@@ -2,7 +2,7 @@ import { defer } from './utils';
 import * as errors from './errors';
 import AnnotationsApi from './annotation';
 import sorter from './sorter';
-import ScssCommentParser from 'scss-comment-parser';
+import ScssCommentParser from 'inuit-scss-comment-parser';
 import through from 'through2';
 import concat from 'concat-stream';
 import path from 'path';
