@@ -1,13 +1,15 @@
 [![SassDoc](https://cdn.rawgit.com/SassDoc/sassdoc/master/assets/header.svg)](http://sassdoc.com)
 
-<br>
-[![Build Status][travis-image]][travis-url]
-[![Coverage Status][coveralls-image]][coveralls-url]
-[![Dependencies Status][depstat-image]][depstat-url]
-[![License][license-image]][license-url]
-[![Gitter][chat-image]][chat-url]
+## Note
 
-[![NPM][npm-image]][npm-url]
+This is a fork of the original [SassDoc](http://sassdoc.com/). The only
+modification I made was to use a different scss parser, in order to 
+allow block comments, to try and use it with the comment style of 
+[inuitcss](http://github.com/inuitcss/inuitcss).
+
+Thanks for the original authors for the great tool and
+[@pascalduez](https://github.com/pascalduez) for pointing me in this
+direction [here](https://github.com/SassDoc/sassdoc/issues/467).
 
 ## Documentation
 
